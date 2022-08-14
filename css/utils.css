@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.font-sarif{
+    font-family: sans-serif;
+}
+
+.p{
+    text-align: center;
+    font-family: sans-serif;
+}
